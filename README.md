@@ -1,2 +1,2 @@
-# Fashion_Mnist-
+# Fashion_Mnist
 Fashion Mnist with Tensorflow
