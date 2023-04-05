@@ -6,7 +6,8 @@ For this experiment, I am going to use the Fashion MNIST dataset that consists o
 ## Installing
 Clone the repository
   - https://github.com/SamWiz13/Fashion_Mnist.git  
-Strealit
+#
+Streamlit
   - http://localhost:8501/
 #
   
